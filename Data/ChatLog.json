@@ -1,0 +1,602 @@
+[
+    {
+        "role": "user",
+        "content": "what is the date"
+    },
+    {
+        "role": "assistant",
+        "content": "The date is 21 May 2025."
+    },
+    {
+        "role": "user",
+        "content": "remember that i am 20 years old"
+    },
+    {
+        "role": "assistant",
+        "content": "I'll keep that in mind."
+    },
+    {
+        "role": "user",
+        "content": "& c:/Users/leobh/OneDrive/Desktop/roger/.venv/Scripts/python.exe c:/Users/leobh/OneDrive/Desktop/roger/Backend/Chatbot.py"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're running the chatbot script."
+    },
+    {
+        "role": "user",
+        "content": "what is my age"
+    },
+    {
+        "role": "assistant",
+        "content": "You are 20 years old."
+    },
+    {
+        "role": "user",
+        "content": "who is elon"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Musk is a South African-born entrepreneur, inventor, and business magnate."
+    },
+    {
+        "role": "user",
+        "content": "do you know modi"
+    },
+    {
+        "role": "assistant",
+        "content": "Narendra Modi is the 14th and current Prime Minister of India."
+    },
+    {
+        "role": "user",
+        "content": "& c:/Users/leobh/OneDrive/Desktop/roger/.venv/Scripts/python.exe c:/Users/leobh/OneDrive/Desktop/roger/Backend/RealtimeSearchEngine.py"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're running a Realtime Search Engine script."
+    },
+    {
+        "role": "user",
+        "content": "& c:/Users/leobh/OneDrive/Desktop/roger/.venv/Scripts/python.exe c:/Users/leobh/OneDrive/Desktop/roger/Backend/RealtimeSearchEngine.py"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're running the Realtime Search Engine script again."
+    },
+    {
+        "role": "user",
+        "content": "& c:/Users/leobh/OneDrive/Desktop/roger/.venv/Scripts/python.exe c:/Users/leobh/OneDrive/Desktop/roger/Backend/RealtimeSearchEngine.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Still running the Realtime Search Engine script."
+    },
+    {
+        "role": "user",
+        "content": "what is networth of elon musk"
+    },
+    {
+        "role": "assistant",
+        "content": "As of my knowledge cutoff, 2025, Elon Musk's net worth is approximately $230 billion."
+    },
+    {
+        "role": "user",
+        "content": "& c:/Users/leobh/OneDrive/Desktop/roger/.venv/Scripts/python.exe c:/Users/leobh/OneDrive/Desktop/roger/Backend/RealtimeSearchEngine.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Still running the Realtime Search Engine script."
+    },
+    {
+        "role": "user",
+        "content": "what is stock price of google"
+    },
+    {
+        "role": "assistant",
+        "content": "As of my real-time information, the stock price of Alphabet Inc. (Google) is:\n\n* Class A (GOOGL): The previous close was $163.98, and the 52-week high is $207.05.\n* Class C (GOOG): The current price is $165.32 USD, which has decreased by \u22120.39% in the past 24 hours.\n\nPlease note that stock prices may fluctuate rapidly and might have changed since my knowledge cutoff."
+    },
+    {
+        "role": "user",
+        "content": "what is stock price of google"
+    },
+    {
+        "role": "assistant",
+        "content": "As of my real-time information, the stock price of Alphabet Inc. (Google) is:\n\n* Class A (GOOGL): The previous close was $167.87, and the 52-week high is $208.70.\n* Class C (GOOG): The current price is $165.32 USD, which has decreased by \u22120.39% in the past 24 hours.\n\nPlease note that stock prices may fluctuate rapidly and might have changed since my knowledge cutoff."
+    },
+    {
+        "role": "user",
+        "content": "who is narendra'"
+    },
+    {
+        "role": "assistant",
+        "content": "Narendra Damodardas Modi, commonly known as Narendra Modi, is an Indian politician who has served as the 14th and current Prime Minister of India since 2014."
+    },
+    {
+        "role": "user",
+        "content": "how are you"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks for asking! I'm functioning properly and ready to assist you with any questions or topics you'd like to discuss."
+    },
+    {
+        "role": "user",
+        "content": "who is hanuman"
+    },
+    {
+        "role": "assistant",
+        "content": "Hanuman is a Hindu god and a devotee of Lord Rama. He is known for his strength, courage, and devotion to Rama."
+    },
+    {
+        "role": "user",
+        "content": "ok bye"
+    },
+    {
+        "role": "assistant",
+        "content": "It was nice chatting with you. Have a great day! Bye!"
+    },
+    {
+        "role": "user",
+        "content": "what is the time"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 11 hours, 23 minutes, and 08 seconds."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks for asking! I'm functioning properly and ready to assist you with any questions or topics you'd like to discuss."
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks! I'm functioning properly and ready to assist you."
+    },
+    {
+        "role": "user",
+        "content": "Hey roger."
+    },
+    {
+        "role": "assistant",
+        "content": "Hey!"
+    },
+    {
+        "role": "user",
+        "content": "Open."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm open and ready to chat!"
+    },
+    {
+        "role": "user",
+        "content": "Who is rdj?"
+    },
+    {
+        "role": "assistant",
+        "content": "RDJ stands for Robert Downey Jr., an American actor known for his iconic role as Tony Stark in the Marvel Cinematic Universe."
+    },
+    {
+        "role": "user",
+        "content": "Text."
+    },
+    {
+        "role": "assistant",
+        "content": "You want to send a text."
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "It was nice chatting with you. Have a great day! Bye!"
+    },
+    {
+        "role": "user",
+        "content": "Hey raja."
+    },
+    {
+        "role": "assistant",
+        "content": "Hey!"
+    },
+    {
+        "role": "user",
+        "content": "Hey hey raja."
+    },
+    {
+        "role": "assistant",
+        "content": "Hey hey!"
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "It was nice chatting with you. Have a great day! Bye!"
+    },
+    {
+        "role": "user",
+        "content": "Who is abdul kalam?"
+    },
+    {
+        "role": "assistant",
+        "content": "Avul Pakir Jainulabdeen Abdul Kalam was an Indian aerospace scientist and statesman who served as the President of India from 2002 to 2007."
+    },
+    {
+        "role": "user",
+        "content": "Hey raja."
+    },
+    {
+        "role": "assistant",
+        "content": "Hey!"
+    },
+    {
+        "role": "user",
+        "content": "Take photo."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a text-based AI, I don't have a camera to take a photo."
+    },
+    {
+        "role": "user",
+        "content": "Laptop."
+    },
+    {
+        "role": "assistant",
+        "content": "You're thinking about a laptop!"
+    },
+    {
+        "role": "user",
+        "content": "Hi google."
+    },
+    {
+        "role": "assistant",
+        "content": "Hi! I'm not Google, but I'm a chatbot named Roger. How can I help you?"
+    },
+    {
+        "role": "user",
+        "content": "Take a photo."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a text-based AI, I don't have a camera to take a photo."
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "It was nice chatting with you. Have a great day! Bye!"
+    },
+    {
+        "role": "user",
+        "content": "Generate abdul kalam."
+    },
+    {
+        "role": "assistant",
+        "content": "Avul Pakir Jainulabdeen Abdul Kalam was an Indian aerospace scientist and statesman who served as the President of India from 2002 to 2007."
+    },
+    {
+        "role": "user",
+        "content": "Hey raja."
+    },
+    {
+        "role": "assistant",
+        "content": "Hey!"
+    },
+    {
+        "role": "user",
+        "content": "What is your name?"
+    },
+    {
+        "role": "assistant",
+        "content": "My name is Roger."
+    },
+    {
+        "role": "user",
+        "content": "Hey raja."
+    },
+    {
+        "role": "assistant",
+        "content": "I think there's been a mix-up! My name is Roger, not Raja."
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks! I'm functioning properly and ready to assist you."
+    },
+    {
+        "role": "user",
+        "content": "Imagination."
+    },
+    {
+        "role": "assistant",
+        "content": "Imagination is the ability to form mental images or concepts of things that are not present or have not been experienced."
+    },
+    {
+        "role": "user",
+        "content": "Observation."
+    },
+    {
+        "role": "assistant",
+        "content": "Observation is the act of noticing and paying attention to details, often through the use of one's senses."
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "It was nice chatting with you. Have a great day! Bye!"
+    },
+    {
+        "role": "user",
+        "content": "Hey roger."
+    },
+    {
+        "role": "assistant",
+        "content": "Hey!"
+    },
+    {
+        "role": "user",
+        "content": "What are you doing?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm chatting with you and answering your questions!"
+    },
+    {
+        "role": "user",
+        "content": "What is the time now?"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 18 hours, 11 minutes, and 33 seconds."
+    },
+    {
+        "role": "user",
+        "content": "Hey raja what can you do?"
+    },
+    {
+        "role": "assistant",
+        "content": "I think there's been a mix-up! My name is Roger, not Raja. As Roger, I can chat with you, answer your questions\nprovide information on various topics\nengage in conversations\nand more!"
+    },
+    {
+        "role": "user",
+        "content": "Chat with me."
+    },
+    {
+        "role": "assistant",
+        "content": "I'd love to chat with you. How's your day going so far?"
+    },
+    {
+        "role": "user",
+        "content": "Who is mahatma gandhi?"
+    },
+    {
+        "role": "assistant",
+        "content": "Mahatma Gandhi was an Indian lawyer, anti-colonial nationalist, and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule."
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "It was nice chatting with you. Have a great day! Bye!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks! I'm functioning properly and ready to assist you."
+    },
+    {
+        "role": "user",
+        "content": "When is ganesh chaturthi?"
+    },
+    {
+        "role": "assistant",
+        "content": "Ganesh Chaturthi is celebrated on September 7, 2024."
+    },
+    {
+        "role": "user",
+        "content": "What about 2025?"
+    },
+    {
+        "role": "assistant",
+        "content": "Ganesh Chaturthi in 2025 is on September 17, 2025."
+    },
+    {
+        "role": "user",
+        "content": "When is my birthday?"
+    },
+    {
+        "role": "assistant",
+        "content": "I remember! You're 20 years old, but I don't have information about your exact birthdate."
+    },
+    {
+        "role": "user",
+        "content": "When is my birthday?"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but I don't have information about your exact birthdate."
+    },
+    {
+        "role": "user",
+        "content": "When was narendra modi born?"
+    },
+    {
+        "role": "assistant",
+        "content": "Narendra Modi was born on September 17, 1950."
+    },
+    {
+        "role": "user",
+        "content": "What is one piece?"
+    },
+    {
+        "role": "assistant",
+        "content": "One Piece is a popular Japanese manga and anime series created by Eiichiro Oda."
+    },
+    {
+        "role": "user",
+        "content": "Which is the best anime?"
+    },
+    {
+        "role": "assistant",
+        "content": "That's a subjective question! Opinions on the best anime vary greatly depending on personal taste. Some top contenders include:\n\n* Attack on Titan\n* Death Note\n* Fullmetal Alchemist: Brotherhood\n* Haikyuu!!\n* My Hero Academia\n* Naruto\n* One Piece\n* Sword Art Online\n* and many more!\n\nWhat kind of anime are you in the mood for?"
+    },
+    {
+        "role": "user",
+        "content": "My present is an action also drama on."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're in the mood for an action-packed anime with dramatic elements. Here are some suggestions:\n\n* Attack on Titan\n* My Hero Academia\n* Demon Slayer: Kimetsu no Yaiba\n* Jujutsu Kaisen\n* Black Clover\n* Haikyuu!! (also has comedic elements)\n\nLet me know if you'd like more recommendations or have any specific preferences!"
+    },
+    {
+        "role": "user",
+        "content": "What is $10000?"
+    },
+    {
+        "role": "assistant",
+        "content": "$10,000 is a sum of ten thousand units of a particular currency, often the US dollar."
+    },
+    {
+        "role": "user",
+        "content": "What is the speciality of one piece?"
+    },
+    {
+        "role": "assistant",
+        "content": "One Piece is known for its unique art style, epic story arcs, and lovable characters!"
+    },
+    {
+        "role": "user",
+        "content": "Is one piece an action drama packed anime or any other."
+    },
+    {
+        "role": "assistant",
+        "content": "One Piece is an action-adventure anime that also has elements of comedy, drama, and fantasy."
+    },
+    {
+        "role": "user",
+        "content": "Which do you prefer?"
+    },
+    {
+        "role": "assistant",
+        "content": "As a chatbot, I don't have personal preferences or opinions. I'm here to provide information and assist with your questions!"
+    },
+    {
+        "role": "user",
+        "content": "Do you know about mgit."
+    },
+    {
+        "role": "assistant",
+        "content": "MGIT stands for Mahatma Gandhi Institute of Technology."
+    },
+    {
+        "role": "user",
+        "content": "Where is it located?"
+    },
+    {
+        "role": "assistant",
+        "content": "The Mahatma Gandhi Institute of Technology (MGIT) is in Hyderabad, Telangana, India."
+    },
+    {
+        "role": "user",
+        "content": "Who is the principal of mgit?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to my real-time information, the Principal of MGIT is Dr. G. ChandraMohan Reddy."
+    },
+    {
+        "role": "user",
+        "content": "What is the birthday of dr g chandra mohan reddy?"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but I don't have information about Dr. G. ChandraMohan Reddy's birthday."
+    },
+    {
+        "role": "user",
+        "content": "What is the last terror attack on india?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to my real-time information, the last terror attack on India was on May 21, 2025."
+    },
+    {
+        "role": "user",
+        "content": "What is its name?"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but I don't have information about a specific terror attack on May 21, 2025."
+    },
+    {
+        "role": "user",
+        "content": "Do you know about pahalgam attack 2025."
+    },
+    {
+        "role": "assistant",
+        "content": "The Pahalgam attack 2025 was a terrorist attack that occurred on April 22, 2025, in Pahalgam, Jammu and Kashmir, India."
+    },
+    {
+        "role": "user",
+        "content": "Who did the attack?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to my real-time knowledge, the Pahalgam attack 2025 was carried out by Jaish-e-Mohammed (JeM) terrorists."
+    },
+    {
+        "role": "user",
+        "content": "That was a nice conversation with you bro."
+    },
+    {
+        "role": "assistant",
+        "content": "Thank you so much! I had a great time chatting with you too! It was a pleasure assisting you and having a nice conversation. If you need anything else or just want to chat, feel free to reach out to me anytime!"
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "It was nice chatting with you. Have a great day! Bye!"
+    }
+]

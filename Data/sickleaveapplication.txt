@@ -1,0 +1,31 @@
+Here is a sample sick leave application:
+
+[Your Name]
+[Your Address]
+[City, State, Zip]
+[Date]
+
+[Recipient's Name]
+[Recipient's Title]
+[Company/Organization]
+[Company/Organization Address]
+[City, State, Zip]
+
+Dear [Recipient's Name],
+
+I am writing to request a sick leave for [number of days] days from [start date] to [end date]. Unfortunately, I am not feeling well and am currently under the weather.
+
+I am experiencing [briefly mention your symptoms, e.g. fever, headache, nausea, etc.]. My doctor has advised me to take some time off to rest and recover.
+
+I apologize for any inconvenience this may cause and will do my best to catch up on any missed work as soon as I am feeling better. I will keep you updated on my status and let you know when I am ready to return to work.
+
+Thank you for your understanding and support.
+
+Sincerely,
+
+[Your Signature]
+[Your Name]
+
+Please note that this is a sample and you should adjust it according to your company's policies and your personal situation. Also, make sure to include all the necessary details, such as the duration of your leave, the start and end dates, and a brief explanation of your illness.
+
+If you need any changes or modifications, please let me know!
